@@ -1,7 +1,7 @@
 # Meeting Notes Team Rocket
 **Date Here** ![Team Logo](../images/logo.jpg)
 ## Objective
-What is our Objective for our Meeting? Why was it called?
+What is our Objective for our Meeting? Why was it called? (put aganda and topics to cover here)
 ## Present
 - List of members who are Present
 ## Absent
