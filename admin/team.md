@@ -15,7 +15,7 @@ Our Mission? Make high quality recipes more accessible, more usable, and easier 
 
 ### Our Members
 
-##### Seeraj Somla ()
+##### Seeraj Somla (He/him/his)
 
 Computer Engineering Major, Minoring in ICAM (Interdisciplinary Computing in the Arts/Music)
 
@@ -23,7 +23,7 @@ Warren College, Class of 2022
 
 Likes Producing music, Baking, Lifting
 
-##### Sri Siddhartha (Sid) Madduri (He/him)
+##### Sri Siddhartha (Sid) Madduri (He/him/his)
 
 Computer Engineering (CSE) Major
 
@@ -33,7 +33,7 @@ Likes Reading, Tennis, Watching sports (packers, packers, warriors, federer)
 
 ##### Lucius Weathersby ()
 
-##### Mihir Gupta ()
+##### Mihir Gupta (He/him/his)
 
 Computer Science Major, Minoring in Business
 
@@ -41,9 +41,14 @@ Warren College, Class of 2023
 
 Likes Badminton, Cooking, Watching sports (football, baseball, basketball, etc)
 
-##### Oliver Korchnoy ()
+##### Oliver Korchnoy (He/him/his)
 
-##### Patrick Brown (He/him)
+Computer Engineering Major
+
+Revelle College, Class of 2023
+
+Likes Hiking, Stonks, Reading
+##### Patrick Brown (He/him/his)
 
 Computer Science Major, Minoring in Entrepreneurship and Innovation
 
@@ -51,10 +56,15 @@ Sixth College, Class of 2023
 
 Likes Lifting, Baking, and Reading at a very slow pace
 
-##### Xiaoxiao (Crystal) Zou ()
+##### Xiaoxiao (Crystal) Zou (She/her/hers)
 
+Computer Engineering and Applied Mathematics Double Major
 
-##### Yinghui Sun ()
+Earl Warren College, Class of 2023
+
+Likes Gaming, Watching movies, Reading
+
+##### Yinghui Sun (He/him/his)
 
 Computer Science Major
 
@@ -62,7 +72,7 @@ Revelle College, Class of 2023
 
 Likes Cooking, Playing basketball, Listening to music
 
-##### Brandon Chen (He/him)
+##### Brandon Chen (He/him/his)
 
 Computer Science Major, Minoring in Cognitive Science
 
