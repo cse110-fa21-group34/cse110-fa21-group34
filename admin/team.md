@@ -1,10 +1,10 @@
-# Team Rocket
-![Rockie the Rocket! Team 34's Mascot](/admin/images/logo256x256.jpg)
+![Rockie the Rocket! Team 34's Mascot](/admin/images/name-logo.jpg)
 
 #### Team 34, TA: Sourabh Raja Murali
 
 ---
 ## About Us
+![Rockie the Rocket! Team 34's Mascot](/admin/images/logo256x256.jpg)
 ### Our Values
 Here at Team Rocket, we strive to create an environment of inclusivity, safety, and respect. Understanding that everyone has different strengths will allow us to excel as a team, and will help us create a polished, user-focused final product.
 
@@ -15,7 +15,7 @@ Our Mission? Make high quality recipes more accessible, more usable, and easier 
 
 ### Our Members
 
-##### Seeraj Somla (He/him/his)
+##### Seeraj Somla (He/him/his) (Leader)
 
 Computer Engineering Major, Minoring in ICAM (Interdisciplinary Computing in the Arts/Music)
 
@@ -23,7 +23,7 @@ Warren College, Class of 2022
 
 Likes Producing music, Baking, Lifting
 
-##### Sri Siddhartha (Sid) Madduri (He/him/his)
+##### Sri Siddhartha (Sid) Madduri (He/him/his) (Leader)
 
 Computer Engineering (CSE) Major
 
@@ -31,7 +31,13 @@ Eleanor Roosevelt College, Class of 2023
 
 Likes Reading, Tennis, Watching sports (packers, packers, warriors, federer)
 
-##### Lucius Weathersby ()
+##### Lucius Weathersby (He/him/his)
+
+Computer Engineering Major
+
+Muir College
+
+3d Modelling, Animating
 
 ##### Mihir Gupta (He/him/his)
 
@@ -48,6 +54,7 @@ Computer Engineering Major
 Revelle College, Class of 2023
 
 Likes Hiking, Stonks, Reading
+
 ##### Patrick Brown (He/him/his)
 
 Computer Science Major, Minoring in Entrepreneurship and Innovation
