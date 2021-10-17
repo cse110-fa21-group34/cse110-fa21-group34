@@ -15,74 +15,74 @@ Our Mission? Make high quality recipes more accessible, more usable, and easier 
 
 ### Our Members
 
-##### Seeraj Somla (He/him/his) (Leader)
+##### Seeraj Somla (He/him/his) (Leader) [GitHub](https://github.com/srjsml)
 
-Computer Engineering Major, Minoring in ICAM (Interdisciplinary Computing in the Arts/Music)
+- Computer Engineering Major, Minoring in ICAM (Interdisciplinary Computing in the Arts/Music)
 
-Warren College, Class of 2022
+- Warren College, Class of 2022
 
-Likes Producing music, Baking, Lifting
+- Likes Producing music, Baking, Lifting
 
-##### Sri Siddhartha (Sid) Madduri (He/him/his) (Leader)
+##### Sri Siddhartha (Sid) Madduri (He/him/his) (Leader) [GitHub](https://github.com/smadduri001)
 
-Computer Engineering (CSE) Major
+- Computer Engineering (CSE) Major
 
-Eleanor Roosevelt College, Class of 2023
+- Eleanor Roosevelt College, Class of 2023
 
-Likes Reading, Tennis, Watching sports (packers, packers, warriors, federer)
+- Likes Reading, Tennis, Watching sports (packers, packers, warriors, federer)
 
-##### Lucius Weathersby (He/him/his)
+##### Lucius Weathersby (He/him/his) [GitHub](https://github.com/)
 
-Computer Engineering Major
+- Computer Engineering Major
 
-Muir College
+- Muir College
 
-3d Modelling, Animating
+- 3d Modelling, Animating
 
-##### Mihir Gupta (He/him/his)
+##### Mihir Gupta (He/him/his) [GitHub](https://github.com/gmihir)
 
-Computer Science Major, Minoring in Business
+- Computer Science Major, Minoring in Business
 
-Warren College, Class of 2023
+- Warren College, Class of 2023
 
-Likes Badminton, Cooking, Watching sports (football, baseball, basketball, etc)
+- Likes Badminton, Cooking, Watching sports (football, baseball, basketball, etc)
 
-##### Oliver Korchnoy (He/him/his)
+##### Oliver Korchnoy (He/him/his) [GitHub](https://github.com/Oliverkor10)
 
-Computer Engineering Major
+- Computer Engineering Major
 
-Revelle College, Class of 2023
+- Revelle College, Class of 2023
 
-Likes Hiking, Stonks, Reading
+- Likes Hiking, Stonks, Reading
 
-##### Patrick Brown (He/him/his)
+##### Patrick Brown (He/him/his) [GitHub](https://github.com/PatrickBrown1)
 
-Computer Science Major, Minoring in Entrepreneurship and Innovation
+- Computer Science Major, Minoring in Entrepreneurship and Innovation
 
-Sixth College, Class of 2023
+- Sixth College, Class of 2023
 
-Likes Lifting, Baking, and Reading at a very slow pace
+- Likes Lifting, Baking, and Reading at a very slow pace
 
-##### Xiaoxiao (Crystal) Zou (She/her/hers)
+##### Xiaoxiao (Crystal) Zou (She/her/hers) [GitHub](https://github.com/Cryszzz)
 
-Computer Engineering and Applied Mathematics Double Major
+- Computer Engineering and Applied Mathematics Double Major
 
-Earl Warren College, Class of 2023
+- Earl Warren College, Class of 2023
 
-Likes Gaming, Watching movies, Reading
+- Likes Gaming, Watching movies, Reading
 
-##### Yinghui Sun (He/him/his)
+##### Yinghui Sun (He/him/his) [GitHub](https://github.com/inhui8)
 
-Computer Science Major
+- Computer Science Major
 
-Revelle College, Class of 2023
+- Revelle College, Class of 2023
 
-Likes Cooking, Playing basketball, Listening to music
+- Likes Cooking, Playing basketball, Listening to music
 
-##### Brandon Chen (He/him/his)
+##### Brandon Chen (He/him/his) [GitHub](https://github.com/BrandonC9)
 
-Computer Science Major, Minoring in Cognitive Science
+- Computer Science Major, Minoring in Cognitive Science
 
-Marshall College, Class of 2023
+- Marshall College, Class of 2023
 
-Likes Gaming, Watching esports, Playing piano
+- Likes Gaming, Watching esports, Playing piano
