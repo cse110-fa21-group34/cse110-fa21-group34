@@ -1,5 +1,5 @@
 # Meeting Notes Team Rocket
-**October 13, 2021** ![Team Logo](../images/logo.jpg)
+**October 13, 2021** ![Team Logo](../images/logo256x256.jpg)
 ## Objective
 First Kickoff Meeting!
 Agenda:
