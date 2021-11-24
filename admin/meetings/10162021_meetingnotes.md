@@ -46,5 +46,5 @@ This was our first meeting.
 ## Adjournment
 Meeting was adjourned at 6:35pm by Seeraj. Next meeting TBA, but most likely over Zoom.
 
-**Minutes Submitted by: Seeraj** 
+**Minutes Submitted by: Seeraj Somla** 
 
