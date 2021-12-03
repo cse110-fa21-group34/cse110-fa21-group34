@@ -1,7 +1,7 @@
 # Meeting Notes Team Rocket
-December 3rd, 2021 ![Team Logo](../images/logo.jpg)
+**December 3rd, 2021** ![Team Logo](../images/logo.jpg)
 ## Objective
-Final Official Meeting! Wrap things up.
+Final Official Meeting! Go over final tasks and wrap things up.
 Discuss final presentaion
 ## Present
 - Seeraj Somla
@@ -29,9 +29,11 @@ Last meeting on Monday we discussed final tasks to be finished, getting the reci
      - got rid of a lot of whitespace
      - recipe page is now centered and more compact
      - create and delete recipe buttons now reduced to picture icons to be more consistent with favorite function
+     - mobile design also functional
 ## Additional Info
-Any Additional Resources such as links, videos that don't fit particularly well in any of the ascribed categories
+none
 ## Adjournment
-What time the meeting was Adjourned and by whom, as well as where the next meeting will be held and when\
+Adjourned at 12:40 by Seeraj
 
 **Minutes Submitted by:** 
+Brandon Chen
